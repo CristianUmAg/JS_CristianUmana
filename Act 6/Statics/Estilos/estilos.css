@@ -1,0 +1,28 @@
+div {
+  border: 10px dashed black ;
+  background-color: lightgray;
+}
+
+/*Comente el tamaño de la letra, porque se ve más grande, pero la verdad no estoy muy seguro de que si se haya afectado el tamaño de dichos atributos*/
+
+/*h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 50px;
+}*/
+
+h3 {
+  /*font-size: 40px;*/
+  font-style: italic;
+}
+
+h4 {
+  /*font-size: 30px;*/
+  color: crimson;
+}
+
+/*h5 {
+  font-size: 20px;
+}*/
