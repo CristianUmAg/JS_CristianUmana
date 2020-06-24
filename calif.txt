@@ -1,0 +1,2 @@
+5
+No funciona correctamente porque se debe medir la distancia de cada elevador a Gama y ver cuál es el más cercano comparándo los valores absolutos de las diferencias.
