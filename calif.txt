@@ -1,0 +1,2 @@
+10
+El td lo puedes crear afuera de if-else y solo agregarle la clase correspondiente. Y luego de eso, agregarlo.
