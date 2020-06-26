@@ -1,2 +1,2 @@
-8
-No checa casos como que no cierre la etiqueta script o que la abra, que ponga afuera de la etiqueta script los cinco equisde.
+9
+No checa cuando no cierro la etiqueta script o la abro.
